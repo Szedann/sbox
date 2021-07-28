@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/sboxkeys/static/css/main.7b5b48f9.chunk.css",
-    "main.js": "/sboxkeys/static/js/main.243931eb.chunk.js",
-    "main.js.map": "/sboxkeys/static/js/main.243931eb.chunk.js.map",
+    "main.js": "/sboxkeys/static/js/main.dff97173.chunk.js",
+    "main.js.map": "/sboxkeys/static/js/main.dff97173.chunk.js.map",
     "runtime-main.js": "/sboxkeys/static/js/runtime-main.3c2c32b6.js",
     "runtime-main.js.map": "/sboxkeys/static/js/runtime-main.3c2c32b6.js.map",
-    "static/js/2.6595c580.chunk.js": "/sboxkeys/static/js/2.6595c580.chunk.js",
-    "static/js/2.6595c580.chunk.js.map": "/sboxkeys/static/js/2.6595c580.chunk.js.map",
+    "static/js/2.08048e94.chunk.js": "/sboxkeys/static/js/2.08048e94.chunk.js",
+    "static/js/2.08048e94.chunk.js.map": "/sboxkeys/static/js/2.08048e94.chunk.js.map",
     "index.html": "/sboxkeys/index.html",
     "static/css/main.7b5b48f9.chunk.css.map": "/sboxkeys/static/css/main.7b5b48f9.chunk.css.map",
-    "static/js/2.6595c580.chunk.js.LICENSE.txt": "/sboxkeys/static/js/2.6595c580.chunk.js.LICENSE.txt",
+    "static/js/2.08048e94.chunk.js.LICENSE.txt": "/sboxkeys/static/js/2.08048e94.chunk.js.LICENSE.txt",
     "static/media/bg.7c6d2124.jpg": "/sboxkeys/static/media/bg.7c6d2124.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c2c32b6.js",
-    "static/js/2.6595c580.chunk.js",
+    "static/js/2.08048e94.chunk.js",
     "static/css/main.7b5b48f9.chunk.css",
-    "static/js/main.243931eb.chunk.js"
+    "static/js/main.dff97173.chunk.js"
   ]
 }

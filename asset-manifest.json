@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sboxkeys/static/css/main.7b5b48f9.chunk.css",
-    "main.js": "/sboxkeys/static/js/main.6ac26eab.chunk.js",
-    "main.js.map": "/sboxkeys/static/js/main.6ac26eab.chunk.js.map",
+    "main.js": "/sboxkeys/static/js/main.243931eb.chunk.js",
+    "main.js.map": "/sboxkeys/static/js/main.243931eb.chunk.js.map",
     "runtime-main.js": "/sboxkeys/static/js/runtime-main.3c2c32b6.js",
     "runtime-main.js.map": "/sboxkeys/static/js/runtime-main.3c2c32b6.js.map",
     "static/js/2.6595c580.chunk.js": "/sboxkeys/static/js/2.6595c580.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3c2c32b6.js",
     "static/js/2.6595c580.chunk.js",
     "static/css/main.7b5b48f9.chunk.css",
-    "static/js/main.6ac26eab.chunk.js"
+    "static/js/main.243931eb.chunk.js"
   ]
 }

@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/sboxkeys/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sboxkeys/static/js/main.21f14f19.chunk.js",
-    "main.js.map": "/sboxkeys/static/js/main.21f14f19.chunk.js.map",
-    "runtime-main.js": "/sboxkeys/static/js/runtime-main.a2049652.js",
-    "runtime-main.js.map": "/sboxkeys/static/js/runtime-main.a2049652.js.map",
-    "static/js/2.e31a8379.chunk.js": "/sboxkeys/static/js/2.e31a8379.chunk.js",
-    "static/js/2.e31a8379.chunk.js.map": "/sboxkeys/static/js/2.e31a8379.chunk.js.map",
-    "static/js/3.99229b68.chunk.js": "/sboxkeys/static/js/3.99229b68.chunk.js",
-    "static/js/3.99229b68.chunk.js.map": "/sboxkeys/static/js/3.99229b68.chunk.js.map",
-    "index.html": "/sboxkeys/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/sboxkeys/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e31a8379.chunk.js.LICENSE.txt": "/sboxkeys/static/js/2.e31a8379.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sboxkeys/static/media/logo.6ce24c58.svg"
+    "main.css": "/szedann.github.io.sboxkeys/static/css/main.94f73508.chunk.css",
+    "main.js": "/szedann.github.io.sboxkeys/static/js/main.9cc9e74d.chunk.js",
+    "main.js.map": "/szedann.github.io.sboxkeys/static/js/main.9cc9e74d.chunk.js.map",
+    "runtime-main.js": "/szedann.github.io.sboxkeys/static/js/runtime-main.b6228235.js",
+    "runtime-main.js.map": "/szedann.github.io.sboxkeys/static/js/runtime-main.b6228235.js.map",
+    "static/js/2.a5d2d1ad.chunk.js": "/szedann.github.io.sboxkeys/static/js/2.a5d2d1ad.chunk.js",
+    "static/js/2.a5d2d1ad.chunk.js.map": "/szedann.github.io.sboxkeys/static/js/2.a5d2d1ad.chunk.js.map",
+    "index.html": "/szedann.github.io.sboxkeys/index.html",
+    "static/css/main.94f73508.chunk.css.map": "/szedann.github.io.sboxkeys/static/css/main.94f73508.chunk.css.map",
+    "static/js/2.a5d2d1ad.chunk.js.LICENSE.txt": "/szedann.github.io.sboxkeys/static/js/2.a5d2d1ad.chunk.js.LICENSE.txt",
+    "static/media/bg.7c6d2124.jpg": "/szedann.github.io.sboxkeys/static/media/bg.7c6d2124.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2049652.js",
-    "static/js/2.e31a8379.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.21f14f19.chunk.js"
+    "static/js/runtime-main.b6228235.js",
+    "static/js/2.a5d2d1ad.chunk.js",
+    "static/css/main.94f73508.chunk.css",
+    "static/js/main.9cc9e74d.chunk.js"
   ]
 }

@@ -12,7 +12,7 @@ const Navbar: React.FC<{}> = (props: Props) => {
                     <b>s&box</b> keygen
                 </h1>
                 <nav>
-                    <a href="/">Home</a>
+                    <a href="#">Home</a>
                 </nav>
             </div>
         </header>
